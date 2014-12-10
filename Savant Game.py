@@ -64,14 +64,13 @@ if userInput1 == "west":
                 print "Your only chance of escape is to climb the rope, and so you do."
                 print "After pulling yourself up the rope with your noodle arms for what seems like forever you reach an opening in the wall which you lean over to and abandon the rope."
                 print "The final room is another pitch black room. However this time you hear the tingling of coins or something metallic as they rustle and bounce off of the stone floors."
-                print "Fire illuminates the room, straight from the jaw of Emrys the ancient and devious dragon."
+                print "Fire illuminates the room, straight from the jaw of Emrys the ancient and menacing dragon."
                 print "You spot Princess Amber from across the great hall of loot and gems that is the den Emrys resides in."
                 print "She is unconscious. Before you can make any movement, everything becomes pitch black once again as you have been snatched into the jaws of Emrys, the shield proving useless and realisticaly teaching you the valuable life lesson that a human is no match for a dragon. Pfsh, you weren't even a wizard."
                 print "GAME OVER."
         else: 
                 print "There are no exits !"
-    else:
-        print "There is no other option but to turn back."
+
 
    
         
