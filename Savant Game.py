@@ -48,10 +48,7 @@ if userInput1 == "east":
     if userInput2 == "turn back":
         print "You have returned to where you started."
         print "The only exit remaining is west."
-    else:
-        print "There is no other option but to turn back."
-userInput1 = raw_input()
-
+        userInput1 = raw_input()
 if userInput1 == "west":
     print "The west room is pitch black, you can't see anything."
     userInput2 = raw_input()
@@ -73,6 +70,8 @@ if userInput1 == "west":
                 print "GAME OVER."
         else: 
                 print "There are no exits !"
-            
+    else:
+        print "There is no other option but to turn back."
+
    
         
